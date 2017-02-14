@@ -7,7 +7,14 @@
  
  <body>
   <h1> Código de exemplo </h1>
+  <h3>Imagem do Github!!</h3>
   <p><a href="http://www.aha.io/assets/integration_logos/github-bb449e0ffbacbcb7f9c703db85b1cf0b.png"</a></p>
+  <table>
+    <tr>
+        <td>Linha 1, Coluna 1</td>
+        <td>Linha 1, Coluna 2</td>
+    </tr>
+ </table>
  
  </body>
  </html>
